@@ -155,4 +155,11 @@
 			"zipline": 6113
 		}
 	}
+	"cpsc": {
+		"ip": "localhost",
+		"login": 6112,
+		"servers": {
+			"blizzard": 6113
+		}
+	}
 }
