@@ -1,3 +1,5 @@
+I simply added CPSC to the list of servers. The rest of this is from the original README.MD
+
 # CPPS-PCL
 A Penguin Client Library for Club Penguin Private Servers written in Python.
 
